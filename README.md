@@ -50,3 +50,26 @@ Interface
 
 ![image](https://github.com/user-attachments/assets/5ea48546-bd3a-4d7a-963f-6e12a03d36a6)
 
+Login/signup
+
+![image](https://github.com/user-attachments/assets/455e359f-fed3-46b4-98aa-cc33ef604716)
+
+Without Login View
+
+![image](https://github.com/user-attachments/assets/445f4cbf-acb0-4670-93ca-a2f56f3db8db)
+
+User Feed
+![image](https://github.com/user-attachments/assets/5ee92302-424a-4fff-8d27-3e5e4647133c)
+
+Profile
+![image](https://github.com/user-attachments/assets/0584bbd8-a77c-4fd4-b83f-e8569adf7db5)
+
+Friend Request
+
+![image](https://github.com/user-attachments/assets/5eb14632-8034-4578-be02-ee7c6b70f1cd)
+
+Search
+
+![image](https://github.com/user-attachments/assets/af57191d-707e-4404-93e4-04191a73f120)
+
+
