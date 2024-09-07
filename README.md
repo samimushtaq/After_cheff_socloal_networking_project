@@ -20,13 +20,14 @@ Download or Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/after-chef-recipe-sharing.git
+git clone https://github.com/your-username/After_cheff_socloal_networking_project
+
 Set Up the Database
 
 Go to the database folder.
-Import the after_chef.sql file into your MySQL database using phpMyAdmin.
+Import the afterchef.sql file into your MySQL database using phpMyAdmin.
 Open phpMyAdmin and create a new database.
-Import the SQL file (after_chef.sql) to set up the database structure and initial data.
+Import the SQL file (afterchef.sql) to set up the database structure and initial data.
 Configure Database Connection
 
 Open the config.php file in the root folder.
@@ -39,13 +40,6 @@ $password = ''; // Your MySQL password
 $dbname = 'afterchef'; // The database name
 
 
-Host the project on a local or remote server that supports PHP and MySQL.
-Open the project in your browser, and you're ready to go!
-Project Structure
-bash
-
-│
-└── README.md                  # Project documentation
 Contributions
 Feel free to contribute to the project by submitting a pull request or reporting issues.
 
