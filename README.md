@@ -45,3 +45,8 @@ Feel free to contribute to the project by submitting a pull request or reporting
 
 License
 This project is licensed under the MIT License.
+
+Interface
+
+![image](https://github.com/user-attachments/assets/5ea48546-bd3a-4d7a-963f-6e12a03d36a6)
+
