@@ -1,2 +1,53 @@
-# After_cheff_socloal_networking_project
-After Chef is a social networking platform focused on sharing recipes and connecting food enthusiasts. Users can post their favorite recipes, explore dishes from others, and follow professional chefs. The platform offers a space for chefs to showcase their culinary expertise and for home cooks to discover new dishes. 
+After Chef
+After Chef is a social networking platform designed for food enthusiasts to share, explore, and comment on recipes. Users can create profiles, post recipes, follow chefs, and engage with the community through likes and comments.
+
+Features
+Post Recipes: Users can upload recipes with detailed instructions and images.
+Follow Chefs: Users can follow their favorite chefs and discover their latest creations.
+Comments and Likes: Engage with the community by liking and commenting on recipes.
+Recipe Categories: Filter recipes by cuisine, difficulty, and ingredients.
+Responsive Design: Accessible on both desktop and mobile devices.
+Technologies Used
+HTML, CSS, JavaScript: Frontend design and layout.
+AJAX: Dynamic updates without page reloads.
+PHP: Server-side functionality.
+MySQL: Database management.
+Frameworks: Built using PHP and MySQL with a responsive interface.
+Installation
+Follow the steps below to set up the After Chef project locally:
+
+Download or Clone the Repository
+
+bash
+Copy code
+git clone https://github.com/your-username/after-chef-recipe-sharing.git
+Set Up the Database
+
+Go to the database folder.
+Import the after_chef.sql file into your MySQL database using phpMyAdmin.
+Open phpMyAdmin and create a new database.
+Import the SQL file (after_chef.sql) to set up the database structure and initial data.
+Configure Database Connection
+
+Open the config.php file in the root folder.
+Update the database connection parameters:
+php
+
+$host = 'localhost'; // Your database host
+$username = 'root'; // Your MySQL username
+$password = ''; // Your MySQL password
+$dbname = 'afterchef'; // The database name
+
+
+Host the project on a local or remote server that supports PHP and MySQL.
+Open the project in your browser, and you're ready to go!
+Project Structure
+bash
+
+│
+└── README.md                  # Project documentation
+Contributions
+Feel free to contribute to the project by submitting a pull request or reporting issues.
+
+License
+This project is licensed under the MIT License.
